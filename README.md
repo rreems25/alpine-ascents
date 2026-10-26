@@ -1,4 +1,4 @@
-# Alpine Ascents — HTML5, CSS, Bootstrap and minimal JavaScript
+# Alpine Ascents — HTML5, CSS, Bootstrap and JavaScript
 
 ## Files
 - `index.html` — page structure and content
